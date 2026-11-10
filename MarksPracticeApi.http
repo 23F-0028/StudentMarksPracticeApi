@@ -1,0 +1,6 @@
+@MarksPracticeApi_HostAddress = http://localhost:5219
+
+GET {{MarksPracticeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
